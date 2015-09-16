@@ -1,0 +1,10 @@
+yadavn|Nehul|Yadav|90|95|100|100
+dingrar|Raj|Dingra|91|96|98|98
+kumarv|Vaibhav|Kumar|92|97|99|97
+baggar|Rohil|Bagga|93|98|91|96
+ranaa|Abhishek|Rana|94|99|92|95
+yadavh|Himank|Yadav|95|99|93|94
+tomara|Alankrit|Tomar|96|99|94|93
+pandaa|Alka|Panda|97|95|95|92
+sanjanaj|Sanjana|Johri|98|96|100|91
+mayurathn|Mayurath|Sinha|99|97|100|90
